@@ -10,13 +10,13 @@ Developed and maintained by **[NaitikGrover](https://github.com/NaitikGrover)** 
 
 ## Features
 
-- **Anonymous sessions** — Join a chat using a temporary alias without creating an account.
-- **Temporary rooms** — Create or join rooms using unique 6-character room codes.
-- **No chat history** — Messages are not stored in a database.
-- **Real-time messaging** — Messages are delivered instantly using Socket.io.
-- **Responsive interface** — The interface is designed to work across desktop and mobile devices.
-- **Mobile-friendly controls** — Includes a dedicated mobile layout, collapsible menus, scrollable settings, and custom notifications.
-- **Dark interface** — A dark UI with animated backgrounds, glass-style elements, and subtle transitions.
+- **Anonymous sessions** - Join a chat using a temporary alias without creating an account.
+- **Temporary rooms** - Create or join rooms using unique 6-character room codes.
+- **No chat history** - Messages are not stored in a database.
+- **Real-time messaging** - Messages are delivered instantly using Socket.io.
+- **Responsive interface** - The interface is designed to work across desktop and mobile devices.
+- **Mobile-friendly controls** - Includes a dedicated mobile layout, collapsible menus, scrollable settings, and custom notifications.
+- **Dark interface** - A dark UI with animated backgrounds, glass-style elements, and subtle transitions.
 
 ---
 
