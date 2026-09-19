@@ -4,7 +4,7 @@ Adyber is a real-time anonymous chat platform built for short-lived conversation
 
 The project is built around a simple idea: conversations should not need to stick around after the session ends.
 
-Developed and maintained by **[NaitikGrover](https://github.com/NaitikGrover)** (<naitik@adyber.com>).
+Developed and maintained by **[NaitikGrover](https://github.com/NaitikGrover)** .
 
 ---
 
